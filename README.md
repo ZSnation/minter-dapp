@@ -25,7 +25,7 @@ Join the Discord server for more help from the community: [codeSTACKr Discord](h
 - Clone this repo or download the latest release zip file.
 - Unzip, if needed, and open the folder in VS Code.
 - From the terminal run: 
-```
+`````
  npm install
 ```
 - Copy your image layers into the `/backend/layers` folder.
